@@ -2,8 +2,7 @@
 
 ###  https://jeonsumin1.github.io/
 
-<div align=center>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=C9D6FF&fontColor=FFFFFF&height=280&text=Portfolio&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JeonSuMin%202005970&descAlignY=51&descAlign=62" /></div>
+![image](https://user-images.githubusercontent.com/89902489/201745946-a3b66386-49ed-42ee-836a-54396722a5bb.png)
    
 
 ## About ME
