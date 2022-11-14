@@ -7,8 +7,7 @@
    
 
 ## About ME
-![image](https://user-images.githubusercontent.com/89902489/201744133-233abab6-31e4-4ab7-a99a-fa32b78f6fe8.png)
-![image](https://user-images.githubusercontent.com/89902489/201744458-a2100ff5-7ff5-40bc-86f6-8dc37708e25b.png)
+![image](https://user-images.githubusercontent.com/89902489/201745413-2220a12c-9096-443f-99cc-1face9c533a8.png)
 <br>
 
 ## Subject Completion
