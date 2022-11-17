@@ -37,7 +37,4 @@ github link: https://github.com/jeonsumin1/myshop_djangoproject_3-1
 <br>
 site url: http://127.0.0.1:8000/
 <br>
-* PBL 분석지 
 <br>
-![image](https://user-images.githubusercontent.com/89902489/202503575-76bbeafe-bb50-4600-97d9-a23f76f13dd9.png)
-
