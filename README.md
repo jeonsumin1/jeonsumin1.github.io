@@ -31,4 +31,8 @@ Designer, Technical Writer, DB 구축, Back-End, Front-End
 
 <br>
 
-### 2. 
+### 2. Myshop Project. 
+#### onlineshop, polls 등 Django 기반 웹 프로그래밍 기법을 활용하여, 본인만의 앱 설계 및 구현 
+github link: https://github.com/jeonsumin1/myshop_djangoproject_3-1
+
+
