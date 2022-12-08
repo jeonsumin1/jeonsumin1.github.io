@@ -1,6 +1,6 @@
 # jeonsumin1.github.io
 
-##  https://jeonsumin1.github.io/
+## github blog  :  https://jeonsumin1.github.io/
 
 ![image](https://user-images.githubusercontent.com/89902489/201745946-a3b66386-49ed-42ee-836a-54396722a5bb.png)
    
